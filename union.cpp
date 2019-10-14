@@ -24,7 +24,7 @@ void main()
     }
     for(i=0,j=n;i<m,j<n+m;i++,j++)
     {
-        c[j]=a[i];
+        c[j]=b[i];
     }
     printf("Union of set A and B is : ");
     for(i=0;i<n+m;i++)
